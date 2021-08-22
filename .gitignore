@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Maven template
 target/
 pom.xml.tag
@@ -34,3 +35,8 @@ crashlytics-build.properties
 fabric.properties
 
 .DS_Store
+=======
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.iml
+>>>>>>> d1f72a8 (.gitignore)
