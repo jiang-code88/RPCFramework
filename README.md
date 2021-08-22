@@ -1,4 +1,3 @@
-# 参考项目地址 :https://github.com/CN-GuoZiyang/My-RPC-Framework/tree/master
 
 # My-RPC-Framework
 
@@ -139,6 +138,4 @@ public class NettyTestClient {
 
 - 配置文件
 
-## LICENSE
-
-My-RPC-Framework is under the MIT license. See the [LICENSE](https://github.com/CN-GuoZiyang/My-RPC-Framework/blob/master/LICENSE) file for details.
+### 参考项目地址 :https://github.com/CN-GuoZiyang/My-RPC-Framework/tree/master
